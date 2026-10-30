@@ -1,0 +1,21 @@
+first_number =float (input('enter the first number:'))
+second_number =float (input('enter the second number:'))
+sum_of_numbers = first_number + second_number
+print (sum_of_numbers)
+
+first_number =float (input('enter the first number:'))
+second_number =float (input('enter the second number:'))
+product_of_numbers =first_number * second_number
+print (product_of_numbers)
+
+first_number =float (input('enter the first number:'))
+second_number =float (input('enter the second number:'))
+division_of_numbers =first_number/  second_number
+print(division_of_numbers)
+
+first_number =float (input('enter the first number:'))
+second_number =float (input('enter the second number:'))
+difference_of_numbers =first_number/  second_number
+print(difference_of_numbers)
+
+
